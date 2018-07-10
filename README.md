@@ -1,2 +1,2 @@
 # MKDJOJO.github.io
-主体网站
+Check out: [跳转链接](https://mkdjojo.github.io/)
