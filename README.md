@@ -1,2 +1,3 @@
-# MKDJOJO.github.io
-Check out: [跳转链接](https://mkdjojo.github.io/)
+# 展示网站
+
+跳转	: [天海一色](https://mkdjojo.github.io/)
